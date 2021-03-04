@@ -1,7 +1,7 @@
 # Site settings
-title: "&lt;mxstbr/&gt;"
-url-title: "Max Stoibers Blog"
-description: "Fresh thinking and expert tips about HTML, CSS, JavaScript and other web technologies."
+title: "Điều Hay"
+url-title: "Điều Hay"
+description: "Bí quyết nội trợ."
 paginate: 100
 url: "https://bopabinews.work"
 permalink: /:year/:month/:title/

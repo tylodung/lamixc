@@ -3,7 +3,7 @@ title: "Điều Hay"
 url-title: "Điều Hay"
 description: "Bí quyết nội trợ."
 paginate: 100
-url: "https://bopabinews.work"
+url: "https://lamixc.work"
 permalink: /:year/:month/:title/
 include: ['_headers']
 future: false
