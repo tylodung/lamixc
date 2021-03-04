@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+
+<body itemscope itemtype="https://schema.org/Blog" class="js-has-scrolled">
+	<script>
+		/* Progressive enhancement */
+		document.body.classList.remove('js-has-scrolled')
+	</script>
+	
+	<nav class="nav" role="navigation">
+	
+		<ul class="wrapper wrapper--nav">
+		
+			<li class="nav__item nav__item--left"><a href="/newsletter">Newsletter</a></li>
+			<li class="nav__item nav__item--right"><a href="https://bopabinews.work/">Home</a></li>
+			<li>
+				<a href="/">
+					<h1 class="nav__logo">
+						<div class="fadein move move-lt" aria-hidden="true">&lt;</div><div class="move move-m">Điều</div><div class="fadeout fadeout-a"></div><div class="move move-x"></div><div class="fadeout fadeout-space"> </div><div class="move move-Hay">Hay</div><div class="move move-t"></div><div class="fadeout fadeout-o"></div><div class="fadeout fadeout-i"></div><div class="move move-b"></div><div class="fadeout fadeout-e"></div><div class="move move-r"></div><div class="fadein move move-slash" aria-hidden="true"></div><div class="fadein move move-gt" aria-hidden="true">&gt;</div>
+					</h1>
+					<h2 class="nav__subtitle">Bí Quyết Nội Trợ</h2>
+					
+				</a>
+			</li>
+		</ul>
+		
+	</nav>
+	{{ content }}
+	{% include footer.html %}
+	<div class="nav__notice">Copyright <a href="https://bopabinews.work/">Điều Hay</a> bởi DB</div>
+</body>
+
+</html>
