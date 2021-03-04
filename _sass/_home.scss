@@ -1,0 +1,47 @@
+// Home styles
+// ---------------------------------------/
+
+.post-home {
+    &__wrapper {
+      text-decoration: none;
+    }
+
+    &__wrapper:hover,
+		&__wrapper:focus {
+      text-decoration: none;
+    }
+
+    &:hover &__title {
+			text-decoration: underline;
+    }
+
+    &__title {
+        margin-top: 0;
+				margin-bottom: 0.5em;
+				color: $text-color;
+				text-decoration: none;
+				font-size: 22px;
+    }
+
+		&__date,
+		&__attribution {
+			@include rem(font-size, 0.9);
+			color: $light-text-color;
+			font-weight: 400;
+			margin-top: 1em;
+			margin-bottom: 0;
+			display: inline-block;
+			@include sans;
+		}
+
+		&__attribution:before {
+			content: '\b7';
+			margin-right: 0.3em; // Magic number that makes it look visually aligned
+		}
+
+		&__excerpt {
+			color: $light-text-color;
+			margin-bottom: 0;
+			line-height: 1.3;
+		}
+}

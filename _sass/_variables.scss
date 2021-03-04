@@ -1,0 +1,23 @@
+// Variables
+// ---------------------------------------/
+
+// Colors
+$background-color: rgb(246, 247, 248);
+$light-background-color: lighten($background-color, 1);
+$text-color: #262626;
+$light-text-color: #666;
+$code-color: #bf616a;
+$very-light-grey: darken($background-color, 3);
+$light-grey: darken($background-color, 15);
+$dark-grey: #777;
+$main-color: #6CC0E5;
+$dark-main-color: darken($main-color, 25);
+
+// Typography
+$sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$serif: $sans-serif; // Georgia,Cambria,"Times New Roman",Times,serif;
+$monospace: Consolas, monaco, monospace;
+
+// Sizes
+$max-width: 28em;
+$nav-height: 50px;

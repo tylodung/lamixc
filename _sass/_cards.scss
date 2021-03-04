@@ -1,0 +1,21 @@
+// Box shadow shamelessly stolen from spec.fm
+.card {
+	box-shadow: rgba(0, 0, 0, 0.1) 0px 3px 8px 0px;
+	background-color: white;
+	transition: all 0.2s;
+	border-radius: 5px;
+	padding: 1.5em 1em;
+	margin: 2em 0;
+
+	&:hover {
+		box-shadow: rgba(0, 0, 0, 0.15) 0px 8px 24px 0px;
+	}
+
+	&__image {
+		margin-left: -1em;
+    margin-top: -1.5em;
+    margin-bottom: 1em;
+    max-width: calc(100% + 2em);
+    border-radius: 5px 5px 0 0;
+	}
+}
