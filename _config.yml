@@ -1,7 +1,7 @@
 # Site settings
-title: "Điều Hay"
-url-title: "Điều Hay"
-description: "Bí quyết nội trợ."
+title: "Biển Mộng"
+url-title: "Biển Mộng"
+description: "Biển Xanh Huyền Ảo."
 paginate: 100
 url: "https://lamixc.work"
 permalink: /:year/:month/:title/
