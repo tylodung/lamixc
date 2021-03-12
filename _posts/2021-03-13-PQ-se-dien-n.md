@@ -1,7 +1,7 @@
 ---
 published: true
 hidden: false
-title: Phú Quốc sẽ diễn ra vòng chung kết Hoa hậu Hòa bình thế giới 2017
+title: Phú Quốc sẽ diễn ra vòng chung kết Hoa hậu Hòa bình thế giới
 tags: styling react styled-components
 twitter_large: true
 image: demchung.jpg
