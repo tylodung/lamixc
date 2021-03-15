@@ -5,22 +5,22 @@ title: Top 4 hòn đảo xinh đẹp phía Nam đáng check in dịp tết
 tags: styling react styled-components
 twitter_large: true
 image: check.jpg
-custom_excerpt: Bạn đang có kế hoạch cho chuyến tour du lịch tết Mậu Tuất 2018? Bạn chưa biết nên đi đâu? Vậy top 4 hòn đảo xinh đẹp phía Nam dưới đây là những gợi ý lý tưởng để bạn có thể check in thỏa thích, sở hữu những bức ảnh ấn tượng, đẹp khó cưỡng. Hãy cùng chúng tôi tham khảo nhé!
+custom_excerpt: Bạn chưa biết nên đi đâu? Vậy top 4 hòn đảo xinh đẹp phía Nam dưới đây là những gợi ý lý tưởng để bạn có thể check in thỏa thích, sở hữu những bức ảnh ấn tượng, đẹp khó cưỡng. Hãy cùng chúng tôi tham khảo nhé!
 ---
 
-Côn Đảo
+**Côn Đảo**
 
 ![ten buc hinh](https://phuquocxanh.com/vi/wp-content/uploads/2017/10/c%C3%B4n-%C4%91%E1%BA%A3o-768x512.jpg "ten buc hinh")
 
 Côn Đảo là quần đảo ở ngoài khơi bờ biển Nam Bộ, thuộc Bà Rịa – Vũng Tàu. Là một danh thắng cảnh nổi tiếng của Việt Nam thu hút du khách bởi cảnh sắc thiên nhiên hoang sơ trinh nguyên, bình yên. Du lịch Côn Đảo dịp tết 2018 này, bạn có thể check in tại nhiều địa điểm tham quan đẹp, ý nghĩa như Vịnh Đầm Tre, Vườn quốc gia Côn Đảo, Hòn Bảy Cạnh, nhà tù Côn Đảo, bãi Đầm Trầu, chùa Núi Một, Nghĩa trang Hàng Dương,…
 
-Đảo Bình Ba
+**Đảo Bình Ba**
 
 ![ten buc hinh](https://phuquocxanh.com/vi/wp-content/uploads/2017/10/%C4%91%E1%BA%A3o-b%C3%ACnh-ba.jpg "ten buc hinh")
 
 Là điểm check in vô cùng tuyệt đẹp mà bạn không thể bỏ qua với những góc chụp đẹp không góc chết, cho những bức ảnh lung linh, ảo mộng, có thể kể đến như Đồi cỏ lau, bãi Nồm, bãi Nhà Cũ, bãi Chưỡng, bãi Sa Huỳnh, hòn Rùa, vực Hầm Heo,…
 
-Đảo Nam Du
+**Đảo Nam Du**
 
 ![ten buc hinh](https://phuquocxanh.com/vi/wp-content/uploads/2017/10/%C4%91%E1%BA%A3o-768x768.jpg "ten buc hinh")
 
@@ -28,7 +28,7 @@ Nằm cách Rạch Giá 120km về phía Tây Nam, Đảo Nam Du đẹp hoang s�
 
 Đặt chân lên đảo, bạn dường như thả hồn cả vào không gian trong lành, giữa biển, trời, núi, non và con người hiền lành, chất phác. Đến Nam Du, bạn sẽ sở hữu hẳn một bộ album đẹp tuyệt mỹ, ấn tượng. Điểm check in tại Hòn Hai Bờ Đập, Hòn Mấu, Hòn Nồm, Ngọn hải đăng Nam Du, khung cảnh hoàng hôn tím Nam Du,…là lựa chọn lý tưởng được nhiều bạn trẻ lựa chọn. Bạn hãy chuẩn bị máy ảnh đi, cũng chuẩn bị nhiều kiểu dáng chụp hình đi nhé! Đến Nam Du chụp hình là không ngừng nghỉ đó!
 
-Đảo Phú Quốc
+**Đảo Phú Quốc**
 
 ![ten buc hinh](https://phuquocxanh.com/vi/wp-content/uploads/2017/10/18096470_685986794928978_4485624961603469312_n.jpg "ten buc hinh")
 
