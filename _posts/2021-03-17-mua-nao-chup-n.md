@@ -12,8 +12,6 @@ Chụp ảnh cưới ở Phú Quốc dường như bây giờ trở thành 1 tr�
 
 Chụp ảnh cưới ở Phú Quốc mùa mưa, đôi bạn trẻ của chúng ta không thể bỏ qua sự quyến rũ khó cưỡng của dòng suối Tranh. Suối Tranh là dòng suối rất đẹp, chỉ có nước từ tháng 7 đến 11. Vào thời gian này, dòng suối trở thành một cô gái cực kỳ quyến rũ, khi nhẹ nhàng, khi dữ dội. Chụp ảnh cưới tại đây đôi bạn trẻ sẽ mang về cho mình được bộ ảnh cưới mà đất trời thiên nhiên hoà quyện với nhân thế.
 
-Kết quả hình ảnh cho chụp ảnh cưới ở vườn tiêu phú quốc
-
 Mùa mưa đến những khu vườn trồng tiêu, trồng sim ở Phú Quốc cũng trở nên xanh tốt hơn. Các phiến lá non cũng mơn mởn hơn, bầu không khí cũng mát mẻ hơn. Các bãi biển ở đảo Phú Quốc bỗng chốc cũng mang một vẻ đẹp man dại hơn nhưng cũng thật nồng nàn quấn quýt lấy chân đôi uyên ương trẻ.
 
 Mùa khô ở Phú Quốc cũng quyến rũ không kém. Mùa khô các bãi biển cũng trở nên trong hơn. Các bãi biển ở Phú Quốc nổi bật với bãi cát trắng, màu xanh của nước biển càng thêm nổi bật. Bãi biển trong vắt nhìn rõ đáy, đôi uyên ương trao nhau những ánh nhìn thật tình tứ giữa trời đất bao la Phú Quốc.
