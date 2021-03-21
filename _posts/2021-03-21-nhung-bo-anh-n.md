@@ -5,7 +5,7 @@ title: Những bộ ảnh cưới vạn nàng mê tại thiên đường đảo 
 tags: styling react styled-components
 twitter_large: true
 image: anhcuoi.jpg
-custom_excerpt: Được mệnh danh là Đảo Ngọc của Việt Nam, Phú Quốc có rất nhiều địa điểm chụp ảnh cưới tuyệt đẹp, cho bộ album ảnh cưới đầy lãng mạn. Hãy cùng chiêm ngưỡng bộ ảnh cưới vạn nàng mê tại thiên đường đảo ngọc Phú Quốc dưới đây để thấy được phong cảnh hữu tình, đầy cuốn hút.
+custom_excerpt: Được mệnh danh là Đảo Ngọc của Việt Nam, Phú Quốc có rất nhiều địa điểm chụp ảnh cưới tuyệt đẹp, cho bộ album ảnh cưới đầy lãng mạn.
 ---
 
 Được ưu ái dành tặng cho nhiều cái tên với lời văn hoa mỹ như thiên đường hạ giới, thiên đường nghỉ dưỡng, thiên đường đảo ngọc, Phú Quốc thực sự được tạo hóa ưu ái ban tặng cho một vẻ đẹp cuốn hút bởi nét hoang sơ, bình dị và có hồn.
