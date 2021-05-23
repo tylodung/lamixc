@@ -5,18 +5,18 @@ title: Tết này đi Phú Quốc nên tour hay tự túc?
 tags: styling react styled-components
 twitter_large: true
 image: du-lich1.jpg
-custom_excerpt: Ngày nay, tết không còn đơn thuần chỉ là lúc gia đình đoàn tụ sau một năm vất vả ngược xuôi, tết còn là thời điểm để chúng ta tìm những địa danh, những nơi mới để thỏa lòng tìm hiểu. Vậy du lịch tết thì nên đi tự túc hay đi theo tour. Đây thực sự là một câu hỏi khá khó để tìm câu trả lời.
+custom_excerpt: Ngày nay, tết không còn đơn thuần chỉ là lúc gia đình đoàn tụ sau một năm vất vả ngược xuôi, tết còn là thời điểm để chúng ta tìm những địa danh, những nơi mới để thỏa lòng tìm hiểu.
 ---
 
-Du lịch tự túc
+**Du lịch tự túc**
 
 Vừa rồi, hình thức du lịch tự túc hay “phượt” khá phát triển và được biết đến đối với nhiều giới trẻ thích trải nghiệm, ưa mạo hiểm, có nguồn tài chính hạn hẹp. Đi du lịch theo dạng này, khách du lịch thường có cảm giác tự do và chủ động về quỹ thời gian để có thể thoải mái đi tới bất cứ nơi đâu, dừng chân trong bao lâu mà chẳng có phụ thuộc vào đoàn, cũng như lịch trình chặt chẽ thường có trong các tour du lịch.
 
-Bên cạnh đó, những tín đồ đi “bụi” thường không quan tâm đến vấn đề tiện nghi mà thay vào đó là được tự do khi đi du lịch và chuyến đi phải thực sự tiết kiệm, đi được nhiều nơi. Tuy nhiên bạn sẽ gặp vấn đề trở ngại rất lớn khi tìm kiếm các địa điểm , thông tin và lịch trình đi lại . Nếu bạn không phải dân phượt chuyên hoặc không có kinh nghiệm thì sẽ có nhiều chuyện giở khóc giở cười đến với bạn đó .tour-phu-quoc-tet-tron-goi-gia-re Du lịch theo tour
+Bên cạnh đó, những tín đồ đi “bụi” thường không quan tâm đến vấn đề tiện nghi mà thay vào đó là được tự do khi đi du lịch và chuyến đi phải thực sự tiết kiệm, đi được nhiều nơi. Tuy nhiên bạn sẽ gặp vấn đề trở ngại rất lớn khi tìm kiếm các địa điểm , thông tin và lịch trình đi lại. Nếu bạn không phải dân phượt chuyên hoặc không có kinh nghiệm thì sẽ có nhiều chuyện giở khóc giở cười đến với bạn đó.
 
 Nhằm đáp ứng nhu cầu tham quan, an dưỡng tăng cao trong dịp Tết, càng ngày càng có nhiều tuyến du lịch Tết được các công ty du lịch thiết kế hoàn chỉnh với uy tín được đặt lên dẫn đầu. Đây là điểm cộng mà các tour du lịch có được so với hình thức du lịch tự túc. Thông qua kinh nghiệm và các mối liến kết dịch vụ, các doanh nghiệp du lịch sẽ thu xếp, bảo đảm những dịch vụ cơ bản tùy chọn hoặc trọn gói theo nhu cầu khách hàng.
 
-Trong lúc thiết kế tour, các đơn vị lữ hành đã nghiên cứ cẩn thận từng điểm đến, nhu cầu tham quan, trải nghiệm, khả năng tiêu xài, hầu bao, các tiêu chí về sức khoẻ,…của dân du lịch để làm nên một lịch trình chặt chẽ, từ đó du khách có thể cân nhắc và lựa chọn tour phù hợp.
+Trong lúc thiết kế tour, các đơn vị lữ hành đã nghiên cứ cẩn thận từng điểm đến, nhu cầu tham quan, trải nghiệm, khả năng tiêu xài, hầu bao, các tiêu chí về sức khoẻ,… của dân du lịch để làm nên một lịch trình chặt chẽ, từ đó du khách có thể cân nhắc và lựa chọn tour phù hợp.
 
 Điều quan trọng hơn hết là khi đi theo tour giá thành sẽ không cao hơn so với đi tự túc, do các công ty du lịch đã liên kết với các đơn vị mang lại dịch vụ để đặt mua dịch vụ theo số lượng lớn, giúp giảm giá thành đáng kể trong mỗi tour.
 

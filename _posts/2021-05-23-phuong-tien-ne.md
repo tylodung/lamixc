@@ -1,14 +1,14 @@
 ---
 published: true
 hidden: false
-title: Phương tiện đi du lịch Phú Quốc
+title: Phương tiện đi du lịch Phú Quốc bạn nên biết
 tags: styling react styled-components
 twitter_large: true
 image: tau.jpg
 custom_excerpt: Để tới Phú Quốc bạn có thể đi bằng máy bay hoặc tàu cao tốc.
 ---
 
-Máy bay :
+**Máy bay:**
 
 Nếu đi từ máy bay bạn có thể bay trực tiếp từ Hà Nội, Thành phố Hồ Chí Minh, Cần Thơ, Rạch Giá. Các hãng hiện đang khai thác đường bay nội địa tới Phú Quốc bao gồm VietnamAirline và VietjetAir. Giá vé khứ hồi từ Sài Gòn dao động trong khoảng 1.200k ++ (VietjetAir) và 1.900k (VietnamAirline) từ Hà Nội thấp nhất từ 3.600k (VietnamAirline)
 
@@ -24,7 +24,7 @@ Cần Thơ – Phú Quốc
 
 Vietnam Airlines khai thác mỗi ngày 1 chuyến bay với máy bay ATR khởi hành từ Cần Thơ đi Phú Quốc lúc 13:00 và đến nơi lúc 13:45. Chuyến bay theo chiều ngược lại khởi hành từ Phú Quốc lúc 11:35 và đến nơi lúc 12:20.
 
-Tàu cao tốc :
+**Tàu cao tốc:**
 
 Tàu cao tốc đi Phú Quốc thường xuất phát từ Hà Tiên hoặc Rạch Giá, cảng đến tại Phú Quốc sẽ là Hàm Ninh hoặc Đá Chồng, tùy vào điều kiện thời tiết trên biển mà thời gian đi của tàu sẽ thay đổi. Để di chuyển tơí Hà Tiên, Rạch Giá các bạn có thể tham khảo thêm thông tin về các tuyến xe đi Kiên Giang
 
