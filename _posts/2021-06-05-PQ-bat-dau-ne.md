@@ -5,10 +5,10 @@ title: Phú Quốc bắt đầu vận hành smart city
 tags: styling react styled-components
 twitter_large: true
 image: phu-quoc.jpg
-custom_excerpt: Cuối tuần qua, Tập đoàn VNPT và UBND tỉnh Kiên Giang đã tổ chức Lễ công bố giai đoạn I của Đề án Xây dựng Thành phố thông minh Phú Quốc (smart city Phú Quốc).
+custom_excerpt: Cuối tuần qua, Tập đoàn VNPT và UBND tỉnh Kiên Giang đã tổ chức Lễ công bố giai đoạn I của Đề án Xây dựng Thành phố thông minh Phú Quốc.
 ---
 
-Vận hành đồng thời các hệ thống thông minh
+**Vận hành đồng thời các hệ thống thông minh**
 
 Với Lễ công bố giai đoạn I của Đề án Xây dựng smart city, Phú Quốc sẽ là đô thị thông minh đầu tiên của cả nước bắt đầu vận hành đồng bộ các hợp phần của mô hình smart city.
 
@@ -26,7 +26,7 @@ Chưa dừng lại ở đó, việc quản lý lưu trú cũng đã được th�
 
 Để quản lý, vận hành và kết nối các hệ thống nói trên, Phú Quốc đã xây dựng một trung tâm vận hành tích hợp tập trung. Trung tâm được trang bị một màn hình ghép 12 màn hình 46 inch, có khả năng hiển thị các kịch bản giám sát, quản lý linh hoạt. Ngoài trung tâm này còn có hệ thống server lưu trữ và tổng đài tiếp nhận sự cố, tiếp nhận các thông tin phản ánh của người dân, du khách và tổ chức trên địa bàn huyện.
 
-Tiếp tục giai đoạn II của Đề án
+**Tiếp tục giai đoạn II của Đề án**
 
 Phát biểu tại buổi lễ, ông Phạm Đức Long, Tổng giám đốc Tập đoàn VNPT cho biết: “Trung tâm điều hành thông minh đi vào hoạt động sẽ góp phần quan trọng trong việc tăng cường hiệu quả hoạt động, giám sát, quản lý của chính quyền huyện Phú Quốc, nâng cao chất lượng phục vụ người dân, doanh nghiệp, góp phần mang đến cho khách du lịch sự tiện lợi, thoải mái, an toàn khi đến với Phú Quốc”.
 

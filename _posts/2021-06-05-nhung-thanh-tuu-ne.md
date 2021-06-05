@@ -5,10 +5,10 @@ title: Những thành tựu sau giai đoạn I của đề án Thành phố thô
 tags: styling react styled-components
 twitter_large: true
 image: tour.jpg
-custom_excerpt: Ngày 27.10.2017 vừa qua, UBND huyện đảo Phú Quốc và VNPT đã chính thức công bố hoàn thành Giai đoạn 1 Đề án xây dựng thành phố thông minh Phú Quốc.
+custom_excerpt: UBND huyện đảo Phú Quốc và VNPT đã chính thức công bố hoàn thành Giai đoạn 1 Đề án xây dựng thành phố thông minh Phú Quốc.
 ---
 
-Hệ thống Wifi công cộng
+**Hệ thống Wifi công cộng**
 
 Qua giai đoạn I của đề án VNPT cũng đã cùng với Sở TT&TT phối hợp với Sở Du lịch, UBND huyện Phú Quốc tiến hành khảo sát nhu cầu và lắp đặt hệ thống smart wifi cho Phú Quốc như sau:
 
@@ -20,7 +20,7 @@ Ngoài ra, Phú Quốc còn xây dựng một ứng dụng về Du lịch trên 
 
 Đây là công cụ đơn giản giúp du khách hình thành một lịch trình du lịch phù hợp, tiết kiệm thời gian, chi phí mà vẫn có những trải nghiệm tốt nhất. Hiện Phú Quốc đã xây dựng Cổng thông tin Du lịch.
 
-Hệ thống camera giám sát
+**Hệ thống camera giám sát**
 
 Hiện VNPT đã hoàn thành lắp đặt 19 camera và kết hợp với 31 camera đã kết nối về trung tâm giám sát của công an huyện và sẵn sàng kết nối về trung tâm chỉ huy của công an tỉnh.
 
@@ -30,7 +30,7 @@ Phú Quốc đã đầu tư xây dựng trung tâm vận hành với 12 màn hì
 
 Các ứng dụng này có thể phân tích hình ảnh thông minh qua camera tại các khu vực công cộng, khu dân cư trọng điểm phức tạp về an ninh trật tự.
 
-Hệ thống Chính quyền điện tử
+**Hệ thống Chính quyền điện tử**
 
 ![ten buc hinh](https://phuquocxanh.com/vi/wp-content/uploads/2017/10/tour-phu-quoc-3-ngay-2-dem-4-768x512.jpg "ten buc hinh")
 
@@ -40,7 +40,7 @@ Ngoài gửi thông tin qua ứng dụng, người dân cũng có thể gọi đ
 
 Với một số vụ việc như cướp giật, người dân có thể gửi thông tin ảnh chụp về thủ phạm, phương tiện giao thông giúp thủ phạm di chuyển. Ngay khi nhận được thông tin, hệ thống camera giám sát giao thông sẽ đọc biển số xe. Dựa trên các thông tin này, lực lượng an ninh trực tại Trung tâm điều hành Thành phố thông minh của Phú Quốc sẽ nhập thông tin và phát đi cảnh báo, gửi lệnh điều động đến lực lượng tại khu vực nhanh chóng tới xử lý vụ việc.
 
-Hệ thống Quản lý lưu trú trực tuyến
+**Hệ thống Quản lý lưu trú trực tuyến**
 
 ![ten buc hinh](https://phuquocxanh.com/vi/wp-content/uploads/2017/10/tour-phu-quoc-3-ngay-2-dem-7-768x576.jpg "ten buc hinh")
 
@@ -48,7 +48,7 @@ Hệ thống Quản lý lưu trú trực tuyến
 
 Thống kê khách lưu trú từ ngày 6-2-2017 đến ngày 14-2-2017, đã có 169 cơ sở lưu trú sử dụng phần mềm, 7.903 số lượt khách lưu trú được khai báo lên hệ thống, tổng số lượng khách đang lưu trú 3.300 khách, trong đó có 2.297 khách người nước ngoài.
 
-Hệ thống giám sát môi trường
+**Hệ thống giám sát môi trường**
 
 Đây cũng là mối quan tâm lớn của toàn đảo Phú Quốc bởi sự phát triển nhanh chóng luôn kéo theo những hệ lụy và rác thải ô nhiễm môi trường là vấn nạn lớn. Qua đó, sau giai đoạn I của đề án thành phố thông minh, các bộ phận có liên quan đã tiến hành khảo sát thực địa 4 trạm kiểm soát nước sinh hoạt, 4 trạm kiểm soát nước thải, 16 trạm kiểm soát không khí, 2 trạm kiểm soát nước biển.
 
