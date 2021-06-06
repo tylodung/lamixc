@@ -5,7 +5,7 @@ title: Cập nhật hoạt động của Miss Grand International 2017 tại Ph�
 tags: styling react styled-components
 twitter_large: true
 image: 0445.jpg
-custom_excerpt: Theo như kế hoạch dự kiến thì ngày 15/10/2017, dàn thí sinh của Miss Grand 2017 đã đến Phú Quốc để tiếp tục phần thi thứ 2 của mình. Dự kiến các người đẹp sẽ tham gia các hoạt động và hoàn tất cuộc thi từ ngày 15 – 26.10.2017. Sau đây chúng tôi xin cập nhật hoạt động của Miss Grand International 2017 tại Phú Quốc trong những ngày vừa qua. 
+custom_excerpt: Theo như kế hoạch dự kiến, dàn thí sinh của Miss Grand 2017 đã đến Phú Quốc để tiếp tục phần thi thứ 2 của mình. 
 ---
 
 Ngày 15/10/2017, Phú Quốc chào đón các thí sinh bằng một cơn mưa rất to. Theo Ban Tổ chức cuộc thi Hoa hậu Hòa bình thế giới 2017 (Miss Grand International 2017) cho biết đoàn hoa hậu chia ra thành 2 nhóm để tham gia một số hoạt động đầu tiên tại huyện đảo Phú Quốc (Kiên Giang), như: Tham quan chùa Hộ Quốc, trồng cây tại trục đường Dương Đông – An Thới, tham quan cơ sở ngọc trai, tham quan vườn tiêu, nhà thùng sản xuất nước mắm…
