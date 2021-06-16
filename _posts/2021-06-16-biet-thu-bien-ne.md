@@ -8,7 +8,7 @@ image: photo.jpg
 custom_excerpt: Biệt thự biển mang phong cách kiến trúc “Go Green” đang dần trở thành lựa chọn nghỉ dưỡng hàng đầu. Vì lẽ đó, các biệt thự biển tại các thiên đường như Bali, Phuket luôn hấp dẫn khách du lịch và “cháy phòng” vào mùa cao điểm.
 ---
 
-Xu hướng Go Green: đẳng cấp nghỉ dưỡng
+**Xu hướng Go Green: đẳng cấp nghỉ dưỡng**
 
 Điển hình như căn biệt thự The Purist Villas dù giá thuê cao so với mặt bằng chung nhưng vẫn thu hút đông du khách bởi không gian mang lại sự thư giãn tuyệt đối. Chất liệu gỗ mộc mạc, mảng xanh bao phủ điều hòa không khí tạo cảm giác thư thái, đáp ứng nhu cầu nghỉ dưỡng trọn vẹn trong cuộc sống đầy bộn bề, tất bật hiện nay.
 
@@ -18,7 +18,7 @@ Anh Nguyễn Hùng, Phú Nhuận cho biết: “Chọn những nơi có khách d
 
 Hiện, bất động sản Phú Quốc đang hút dòng vốn lớn đổ về. Bên cạnh các “ông lớn” địa ốc, tập đoàn quốc tế đồng loạt đầu tư phát triển các khu phức hợp nghỉ dưỡng, các nhà đầu tư cá nhân cũng đang chuyển hướng tìm kiếm những cơ hội đầu tư chắc chắn tại đây. Theo nhận định, một khi đặc khu kinh tế hình thành với những chính sách ưu đãi vượt trội, cứ nhìn qua Bali tưởng tượng, lượng du khách trong và ngoài nước tăng gấp nhiều lần con số hiện nay.
 
-Đặc khu kinh tế mở đường đầu tư lớn
+**Đặc khu kinh tế mở đường đầu tư lớn**
 
 Dự luật Đặc khu kinh tế Phú Quốc đang khẩn trương xây dựng và dự kiến trình Quốc hội thông qua vào năm 2018 đã tạo cú đột phá mạnh cho bất động sản đảo Ngọc bùng nổ.
 

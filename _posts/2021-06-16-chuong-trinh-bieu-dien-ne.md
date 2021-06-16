@@ -1,7 +1,7 @@
 ---
 published: true
 hidden: false
-title: Chương trình biểu diễn nghệ thuật khai mạc năm du lịch quốc gia 2016 tại Phú Quôc
+title: Chương trình biểu diễn nghệ thuật khai mạc năm du lịch quốc gia
 tags: styling react styled-components
 twitter_large: true
 image: bieu-dien.jpg
@@ -26,4 +26,3 @@ Với sự tham gia của:
 
 Cùng khám phá công tác chuẩn bị cho buổi biểu diễn này nhé.
 
-![ten buc hinh](http://baodansinh.vn/Images/2016/04/08/ngoctanhhcm/khan_dai_khai_mac.jpg "ten buc hinh")
