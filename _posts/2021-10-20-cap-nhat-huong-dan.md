@@ -1,7 +1,7 @@
 ---
 published: true
 hidden: false
-title: Cập nhật hoạt động của Miss Grand International 2017 tại Phú Quốc
+title: Cập nhật hoạt động của Miss Grand International
 tags: styling react styled-components
 twitter_large: true
 image: 0445.jpg
