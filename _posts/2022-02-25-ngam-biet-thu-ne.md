@@ -1,7 +1,7 @@
 ---
 published: true
 hidden: false
-title: 10 tuyệt chiêu dụ bé khi di chuyển bằng máy bay ra Phú Quốc ngày tết
+title: 10 tuyệt chiêu dụ bé khi di chuyển bằng máy bay ngày tết
 tags: styling react styled-components
 twitter_large: true
 image: qua.jpg

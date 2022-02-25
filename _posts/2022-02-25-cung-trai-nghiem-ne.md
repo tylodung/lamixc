@@ -1,7 +1,7 @@
 ---
 published: true
 hidden: false
-title: Chuyến câu mực đêm trên biển Phú Quốc dịp Tết
+title: Chuyến câu mực đêm trên biển
 tags: styling react styled-components
 twitter_large: true
 image: cau-muc.jpg

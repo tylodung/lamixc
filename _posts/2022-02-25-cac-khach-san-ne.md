@@ -1,7 +1,7 @@
 ---
 published: true
 hidden: false
-title: Các khách sạn được yêu thích ở Phú Quốc
+title: Các khách sạn được yêu thích
 tags: styling react styled-components
 twitter_large: true
 image: ks.jpg

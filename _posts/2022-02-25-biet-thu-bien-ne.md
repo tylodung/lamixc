@@ -1,7 +1,7 @@
 ---
 published: true
 hidden: false
-title: Biệt thự biển GO GREEN duy nhất tại Phú Quốc hút nhà đầu tư
+title: Biệt thự biển GO GREEN duy nhất hút nhà đầu tư
 tags: styling react styled-components
 twitter_large: true
 image: photo.jpg
