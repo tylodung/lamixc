@@ -5,7 +5,7 @@ title: Chương trình biểu diễn nghệ thuật khai mạc năm du lịch qu
 tags: styling react styled-components
 twitter_large: true
 image: bieu-dien.jpg
-custom_excerpt: Chương trình biểu diễn nghệ thuật khai mạc Năm Du lịch quốc gia.
+custom_excerpt: Khai mạc Năm Du lịch quốc gia với nội dung biểu diễn nghệ thuật quy mô lớn, uy nga, tráng lệ.
 ---
 
 Với sự tham gia của:
